@@ -1,6 +1,5 @@
 #!/usr/bin/python3.6
 
-# 日本語を扱うために必要な設定 --- (*1)
 import os, sys, io, cgi
 sys.stdin =  open(sys.stdin.fileno(),  'r', encoding='UTF-8')
 sys.stdout = open(sys.stdout.fileno(), 'w', encoding='UTF-8')
