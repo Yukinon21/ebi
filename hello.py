@@ -1,4 +1,4 @@
-#!/usr/bin/python3.6
+#!/usr/bin python3
 
 import os, sys, io, cgi
 sys.stdin =  open(sys.stdin.fileno(),  'r', encoding='UTF-8')
