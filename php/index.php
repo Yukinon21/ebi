@@ -130,7 +130,7 @@
     </div>
     <!-- /row -->
     <!--ここからphp-->
-    <?php include('./php/articleList.php'); ?>
+    <?php include('./articleList.php'); ?>
     <!--ここまでphp-->
     <!-- /row -->
 
