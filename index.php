@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Marco - Bootstrap Agency Template</title>
+  <title>EBISUカレンダー</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -130,7 +130,7 @@
     </div>
     <!-- /row -->
     <!--ここからphp-->
-    <?php include('./articleList.php'); ?>
+    <?php include('./php-func/articleList.php'); ?>
     <!--ここまでphp-->
     <!-- /row -->
 
